@@ -1,0 +1,84 @@
+body, html {
+    /* overflow: hidden; */
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+ul {
+   padding: 20px;
+}
+.navbardiv > * {
+    margin: 10%;
+}
+.logo {
+    width: 60%;
+}
+a{
+    text-decoration: none;
+    color: #d3d5d4;
+}
+p{
+    color: #d3d5d4;
+}
+i {
+    padding-right: 15px;
+}
+li {
+    list-style: none;
+    line-height: 40px;
+    
+}
+.navbardiv {
+    width: 20%;
+    border-right: 1px solid #f6f7f6;
+}
+
+.basicdiv {
+    /* margin-top: 50px; */
+    background-color: #f8f9f8;
+    border-radius: 15px;
+}
+.div2 {
+    width: 50%;
+}
+.flex {
+    display: flex;
+}
+.marginr5 {
+    margin-right: 5%;
+}
+.padd20 {
+    padding: 20px;
+}
+.paddbott {
+    padding-bottom: 10px;
+}
+
+
+/* section */
+.section{
+    width: 55%;
+}
+.section > *{
+    margin: 5%;
+}
+
+.dot {
+    color: #d3d5d4;
+   cursor: pointer;
+}
+.space {
+    justify-content: space-between;
+}
+.story {
+    width: 7%;
+    border: 3px solid #fd8e68;
+    border-radius: 10px;
+}
+.background1 {
+    width: 50%;
+    height: 300px;
+    background-image: url(/img/itachi.jpg);
+    object-fit: contain;
+}
